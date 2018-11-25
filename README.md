@@ -4,5 +4,3 @@ Viteco Data Suite is a data warehouse automation tool developed by Viteco (Denma
 This repository is intended for sharing tips and tricks, scripts and more, that may be of help when building a data warehouse or just working with data, primarily for those using Viteco Data Suite.
 
 The user guide of Viteco Data Suite 2.0 can be found here: https://wiki.viteco.dk/display/VWS20
-
-One update
