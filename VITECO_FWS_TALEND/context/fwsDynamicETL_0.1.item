@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_yO1gQIgGEeahk9HZ7UR3IQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_yO1gQYgGEeahk9HZ7UR3IQ" comment="" name="extract_interval_name" prompt="extract_interval_name?" promptNeeded="false" type="id_String" value="EnergyKey"/>
+  <contextParameter xmi:id="_yO1gQogGEeahk9HZ7UR3IQ" comment="" name="source_server" prompt="source_server?" promptNeeded="false" type="id_String" value="178.23.244.185"/>
+  <contextParameter xmi:id="_yO1gQ4gGEeahk9HZ7UR3IQ" comment="" name="source_table" prompt="source_table?" promptNeeded="false" type="id_String" value="STG_DIM_DATE"/>
+  <contextParameter xmi:id="_yO1gRIgGEeahk9HZ7UR3IQ" comment="" name="source_database" prompt="source_database?" promptNeeded="false" type="id_String" value="fwsStaging_fws"/>
+  <contextParameter xmi:id="_yO1gRYgGEeahk9HZ7UR3IQ" comment="" name="source_schema" prompt="source_schema?" promptNeeded="false" type="id_String" value="fws"/>
+  <contextParameter xmi:id="_yO1gRogGEeahk9HZ7UR3IQ" comment="" name="target_server" prompt="target_server?" promptNeeded="false" type="id_String" value="UserneedsEXASOL.local.viteco.dk"/>
+  <contextParameter xmi:id="_yO1gR4gGEeahk9HZ7UR3IQ" comment="" name="target_database" prompt="target_database?" promptNeeded="false" type="id_String" value="FWSDATAREP"/>
+  <contextParameter xmi:id="_yO1gSIgGEeahk9HZ7UR3IQ" comment="" name="target_schema" prompt="target_schema?" promptNeeded="false" type="id_String" value="FWSEXTRACT"/>
+  <contextParameter xmi:id="_yO1gSYgGEeahk9HZ7UR3IQ" comment="" name="target_table" prompt="target_table?" promptNeeded="false" type="id_String" value="JIRA_ALL_PROJECTS"/>
+  <contextParameter xmi:id="_yO1gSogGEeahk9HZ7UR3IQ" comment="" name="extract_id" prompt="extract_id?" promptNeeded="false" type="id_Long" value="2"/>
+  <contextParameter xmi:id="_yO1gS4gGEeahk9HZ7UR3IQ" comment="" name="source_loop_query" prompt="source_loop_query?" promptNeeded="false" type="id_String" value="SELECT"/>
+  <contextParameter xmi:id="_yO1gTIgGEeahk9HZ7UR3IQ" comment="" name="extract_method" prompt="extract_method?" promptNeeded="false" type="id_String" value="snapshot"/>
+  <contextParameter xmi:id="_yO1gTYgGEeahk9HZ7UR3IQ" comment="" name="source_filter" prompt="source_filter?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_yO1gTogGEeahk9HZ7UR3IQ" comment="" name="source_select" prompt="source_select?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_yO1gT4gGEeahk9HZ7UR3IQ" comment="" name="source_database_type" prompt="source_database_type?" promptNeeded="false" type="id_String" value="FMD"/>
+  <contextParameter xmi:id="_yO1gUIgGEeahk9HZ7UR3IQ" comment="" name="target_database_type" prompt="target_database_type?" promptNeeded="false" type="id_String" value="MSSQL2017"/>
+  <contextParameter xmi:id="_yO1gUYgGEeahk9HZ7UR3IQ" comment="" name="metadata_generator_folder" prompt="metadata_generator_folder?" promptNeeded="false" type="id_String" value="D:/Udvikling/viteco_fws_datamodel/PostgreSQL/Metadata"/>
+  <contextParameter xmi:id="_yO1gUogGEeahk9HZ7UR3IQ" comment="" name="source_period_from_ts" prompt="source_period_from_ts?" promptNeeded="false" type="id_String" value="2017-05-19 00:00:00"/>
+  <contextParameter xmi:id="_yO1gU4gGEeahk9HZ7UR3IQ" comment="" name="source_period_to_ts" prompt="source_period_to_ts?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_yO1gVIgGEeahk9HZ7UR3IQ" comment="" name="source_ident_from" prompt="source_ident_from?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_yO1gVYgGEeahk9HZ7UR3IQ" comment="" name="source_ident_to" prompt="source_ident_to?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_yO1gVogGEeahk9HZ7UR3IQ" comment="" name="target_insert" prompt="target_insert?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_yO1gV4gGEeahk9HZ7UR3IQ" comment="" name="source_connection_id" prompt="source_connection_id?" promptNeeded="false" type="id_Long" value="5"/>
+  <contextParameter xmi:id="_yO1gWYgGEeahk9HZ7UR3IQ" comment="" name="extract_exe_file_folder" prompt="extract_exe_file_folder?" promptNeeded="false" type="id_String" value="//10.0.1.15/Viteco_DataFiles/faktum/extractfiles"/>
+  <contextParameter xmi:id="_yO1gWogGEeahk9HZ7UR3IQ" comment="" name="target_connection_id" prompt="target_connection_id?" promptNeeded="false" type="id_Long" value="1"/>
+  <contextParameter xmi:id="_yO1gW4gGEeahk9HZ7UR3IQ" comment="" name="extract_db_file_folder" prompt="extract_db_file_folder?" promptNeeded="false" type="id_String" value="//10.0.1.15/Viteco_DataFiles/faktum/extractfiles"/>
+  <contextParameter xmi:id="_yO1gXIgGEeahk9HZ7UR3IQ" comment="" name="source_char_datatype" prompt="source_char_datatype?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_yO1gXYgGEeahk9HZ7UR3IQ" comment="" name="source_concat_operator" prompt="source_concat_operator?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_LmKu8IsHEeaZQP7dwIvexw" comment="" name="batch_period_from_ts" prompt="batch_period_from_ts?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_LmKu8YsHEeaZQP7dwIvexw" comment="" name="batch_period_to_ts" prompt="batch_period_to_ts?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_AO6yUIuVEeaZQP7dwIvexw" comment="" name="new_source_period_to_ts" prompt="new_source_period_to_ts?" promptNeeded="false" type="id_Date" value="2016-02-16 21:52:22"/>
+  <contextParameter xmi:id="_mjVvgIuVEea0zq6IX1qOnA" comment="" name="new_batch_period_to_ts" prompt="new_batch_period_to_ts?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_ji9_sIueEea0zq6IX1qOnA" comment="" name="new_source_ident_to_list" prompt="new_source_ident_to_list?" promptNeeded="false" type="id_Object" value=""/>
+  <contextParameter xmi:id="_8Im9QJqHEea93f9YcSR01w" comment="" name="source_connector" prompt="source_connector?" promptNeeded="false" type="id_String" value="FMD"/>
+  <contextParameter xmi:id="_8Im9QZqHEea93f9YcSR01w" comment="" name="target_connector" prompt="target_connector?" promptNeeded="false" type="id_String" value="JDBC"/>
+  <contextParameter xmi:id="_gE9_AB7vEeehyu2vxPskDw" comment="" name="decimal_separator" prompt="decimal_separator?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_gE9_AR7vEeehyu2vxPskDw" comment="" name="file_encoding" prompt="file_encoding?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_gE9_Ah7vEeehyu2vxPskDw" comment="" name="file_field_separator" prompt="file_field_separator?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_7d1_wB9fEeelgejcnIEzyg" comment="" name="file_header_rows" prompt="file_header_rows?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_ErxucF2nEeeRHczOx6fd7A" comment="" name="source_period_from_name" prompt="source_period_from_name?" promptNeeded="false" type="id_String" value="from="/>
+  <contextParameter xmi:id="_ErxucV2nEeeRHczOx6fd7A" comment="" name="source_period_to_name" prompt="source_period_to_name?" promptNeeded="false" type="id_String" value="epoch_s"/>
+  <contextParameter xmi:id="_Erxucl2nEeeRHczOx6fd7A" comment="" name="source_period_dateformat" prompt="source_period_dateformat?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_-AlI4CtWEeiRadthmq2OPg" comment="" name="fmd_table_id" prompt="fmd_table_id?" promptNeeded="false" type="id_Long" value=""/>
+  <contextParameter xmi:id="_iquisN3qEeiLu4Wge-ZxyA" comment="" name="file_quoting_char" prompt="file_quoting_char?" promptNeeded="false" type="id_String" value="&quot;"/>
+  <contextParameter xmi:id="_iquisd3qEeiLu4Wge-ZxyA" comment="" name="file_escape_char" prompt="file_escape_char?" promptNeeded="false" type="id_String" value="&quot;"/>
+</talendfile:ContextType>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_TrnJEJw_EeaZn5fFiKCCIA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_TrnJEZw_EeaZn5fFiKCCIA" comment="" name="connfwsDatawarehouse_connection_string" prompt="connfwsDatawarehouse_connection_string?" promptNeeded="false" type="id_String" value="jdbc:postgresql://10.0.1.65:5432/fwsDatawarehouse"/>
+  <contextParameter xmi:id="_TrnJEpw_EeaZn5fFiKCCIA" comment="" name="connfwsDatawarehouse_driver_class" prompt="connfwsDatawarehouse_driver_class?" promptNeeded="false" type="id_String" value="org.postgresql.Driver"/>
+  <contextParameter xmi:id="_TrnJE5w_EeaZn5fFiKCCIA" comment="" name="connfwsDatawarehouse_java_library" prompt="connfwsDatawarehouse_java_library?" promptNeeded="false" type="id_String" value="postgresql-9.4-1201.jdbc41.jar"/>
+  <contextParameter xmi:id="_TrnJFJw_EeaZn5fFiKCCIA" comment="" name="connfwsDatawarehouse_mapping_file" prompt="connfwsDatawarehouse_mapping_file?" promptNeeded="false" type="id_String" value="postgres_id"/>
+  <contextParameter xmi:id="_TrnJFZw_EeaZn5fFiKCCIA" comment="" name="connfwsDatawarehouse_username" prompt="connfwsDatawarehouse_username?" promptNeeded="false" type="id_String" value="faktum"/>
+  <contextParameter xmi:id="_TrnJFpw_EeaZn5fFiKCCIA" comment="" name="connfwsDatawarehouse_password" prompt="connfwsDatawarehouse_password?" promptNeeded="false" type="id_Password" value="2f7IMOpnQqlThoeKSyG85w=="/>
+</talendfile:ContextType>
