@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_yNMhgIgGEeahk9HZ7UR3IQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_yNMhgYgGEeahk9HZ7UR3IQ" comment="" name="parent_job_exec_id" prompt="parent_job_exec_id?" promptNeeded="false" type="id_Long" value="0"/>
+  <contextParameter xmi:id="_yNMhgogGEeahk9HZ7UR3IQ" comment="" name="adhoc_flag" prompt="adhoc_flag?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_yNMhg4gGEeahk9HZ7UR3IQ" comment="" name="parallels" prompt="parallels?" promptNeeded="false" type="id_Short" value="1"/>
+  <contextParameter xmi:id="_yNMhhIgGEeahk9HZ7UR3IQ" comment="" name="default_datetime_first_start" prompt="default_datetime_first_start?" promptNeeded="false" type="id_Date" value="01-01-1900"/>
+  <contextParameter xmi:id="_yNMhhYgGEeahk9HZ7UR3IQ" comment="" name="default_datetime_last_end" prompt="default_datetime_last_end?" promptNeeded="false" type="id_Date" value="9999-12-31 23:59:00"/>
+  <contextParameter xmi:id="_yNMhhogGEeahk9HZ7UR3IQ" comment="" name="batch_name" prompt="batch_name?" promptNeeded="false" type="id_String" value="extract_test"/>
+  <contextParameter xmi:id="_yNMhh4gGEeahk9HZ7UR3IQ" comment="" name="exec_start_ts" prompt="exec_start_ts?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_yNMhiIgGEeahk9HZ7UR3IQ" comment="" name="job_exec_id" prompt="job_exec_id?" promptNeeded="false" type="id_Long" value="0"/>
+  <contextParameter xmi:id="_2doicJUsEeaxbfFA_w7QYA" comment="" name="java_lib_folder" prompt="java_lib_folder?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

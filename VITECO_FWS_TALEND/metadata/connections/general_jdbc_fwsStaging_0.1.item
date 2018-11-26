@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_724IkJw-EeaZn5fFiKCCIA" name="general_jdbc_fwsStaging" id="_72qGIJw-EeaZn5fFiKCCIA" label="general_jdbc_fwsStaging" dataPackage="_Ht6VoK15EeW4dtVHK-T2QA" ContextMode="true" ContextId="_C6iYkJw_EeaZn5fFiKCCIA" contextName="Default" DatabaseType="General JDBC" DriverJarPath="context.connfwsStaging_java_library" DriverClass="context.connfwsStaging_driver_class" URL="context.connfwsStaging_connection_string" Port="xxxx" Username="context.connfwsStaging_username" Password="context.connfwsStaging_password" ServerName="" DatasourceName="" FileFieldName="" SID="" SqlSynthax="SQL Syntax" DbmsId="context.connfwsStaging_mapping_file" ProductId="JDBC" DBRootPath="" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_OF8IIa1MEeW4dtVHK-T2QA" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_OHyiQK1MEeW4dtVHK-T2QA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_OH_9oK1MEeW4dtVHK-T2QA" tag="Status" value=""/>
+    <taggedValue xmi:id="_OH_9oa1MEeW4dtVHK-T2QA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_OH_9oq1MEeW4dtVHK-T2QA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_OH_9o61MEeW4dtVHK-T2QA" tag="Description" value=""/>
+    <taggedValue xmi:id="_OH_9pK1MEeW4dtVHK-T2QA" tag="Author" value=""/>
+    <taggedValue xmi:id="_OH_9pa1MEeW4dtVHK-T2QA" tag="otherParameter"/>
+    <taggedValue xmi:id="_OI-OAK1MEeW4dtVHK-T2QA" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_OI-OAa1MEeW4dtVHK-T2QA" tag="DB ProductVersion" value="9.4.5"/>
+    <taggedValue xmi:id="_OI-1EK1MEeW4dtVHK-T2QA" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_yy1G0K1MEeW4dtVHK-T2QA" key="CONN_PARA_KEY_USERNAME" value="context.general_jdbc_fwsStaging_Login"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_Ht6VoK15EeW4dtVHK-T2QA" name="faktum" dataManager="_724IkJw-EeaZn5fFiKCCIA">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_Ht6Voa15EeW4dtVHK-T2QA" name="audit"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_QwMmsMkeEeWG7vzH-3hpSg" name="economic"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_QwMmsckeEeWG7vzH-3hpSg" name="information_schema"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_QwMmsskeEeWG7vzH-3hpSg" name="mssql_test"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_QwMms8keEeWG7vzH-3hpSg" name="pg_catalog"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_QwMmtMkeEeWG7vzH-3hpSg" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

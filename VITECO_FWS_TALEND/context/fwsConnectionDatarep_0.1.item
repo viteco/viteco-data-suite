@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_QGIsoJw-EeaZn5fFiKCCIA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_QGIsoZw-EeaZn5fFiKCCIA" comment="" name="connfwsDatarep_connection_string" prompt="connfwsDatarep_connection_string?" promptNeeded="false" type="id_String" value="jdbc:postgresql://10.0.1.65:5432/fwsDatarep"/>
+  <contextParameter xmi:id="_QGIsopw-EeaZn5fFiKCCIA" comment="" name="connfwsDatarep_driver_class" prompt="connfwsDatarep_driver_class?" promptNeeded="false" type="id_String" value="org.postgresql.Driver"/>
+  <contextParameter xmi:id="_QGIso5w-EeaZn5fFiKCCIA" comment="" name="connfwsDatarep_java_library" prompt="connfwsDatarep_java_library?" promptNeeded="false" type="id_String" value="postgresql-9.4-1201.jdbc41.jar"/>
+  <contextParameter xmi:id="_QGIspJw-EeaZn5fFiKCCIA" comment="" name="connfwsDatarep_mapping_file" prompt="connfwsDatarep_mapping_file?" promptNeeded="false" type="id_String" value="postgres_id"/>
+  <contextParameter xmi:id="_QGIspZw-EeaZn5fFiKCCIA" comment="" name="connfwsDatarep_username" prompt="connfwsDatarep_username?" promptNeeded="false" type="id_String" value="faktum"/>
+  <contextParameter xmi:id="_QGIsppw-EeaZn5fFiKCCIA" comment="" name="connfwsDatarep_password" prompt="connfwsDatarep_password?" promptNeeded="false" type="id_Password" value="2f7IMOpnQqlThoeKSyG85w=="/>
+</talendfile:ContextType>
