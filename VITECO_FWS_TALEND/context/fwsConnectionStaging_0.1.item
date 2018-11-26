@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_C6sJkJw_EeaZn5fFiKCCIA" confirmationNeeded="false" name="Default">
-  <contextParameter xmi:id="_C6sJkZw_EeaZn5fFiKCCIA" comment="" name="connfwsStaging_connection_string" prompt="connfwsStaging_connection_string?" promptNeeded="false" type="id_String" value="jdbc:postgresql://10.0.1.65:5432/fwsStaging"/>
-  <contextParameter xmi:id="_C6sJkpw_EeaZn5fFiKCCIA" comment="" name="connfwsStaging_driver_class" prompt="connfwsStaging_driver_class?" promptNeeded="false" type="id_String" value="org.postgresql.Driver"/>
-  <contextParameter xmi:id="_C6sJk5w_EeaZn5fFiKCCIA" comment="" name="connfwsStaging_java_library" prompt="connfwsStaging_java_library?" promptNeeded="false" type="id_String" value="postgresql-9.4-1201.jdbc41.jar"/>
-  <contextParameter xmi:id="_C6sJlJw_EeaZn5fFiKCCIA" comment="" name="connfwsStaging_mapping_file" prompt="connfwsStaging_mapping_file?" promptNeeded="false" type="id_String" value="postgres_id"/>
-  <contextParameter xmi:id="_C6sJlZw_EeaZn5fFiKCCIA" comment="" name="connfwsStaging_username" prompt="connfwsStaging_username?" promptNeeded="false" type="id_String" value="faktum"/>
-  <contextParameter xmi:id="_C6sJlpw_EeaZn5fFiKCCIA" comment="" name="connfwsStaging_password" prompt="connfwsStaging_password?" promptNeeded="false" type="id_Password" value="2f7IMOpnQqlThoeKSyG85w=="/>
-</talendfile:ContextType>

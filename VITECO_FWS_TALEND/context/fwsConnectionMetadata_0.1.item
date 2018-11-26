@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_yNfccIgGEeahk9HZ7UR3IQ" confirmationNeeded="false" name="Default">
-  <contextParameter xmi:id="_yNfccYgGEeahk9HZ7UR3IQ" comment="" name="connfwsMetadata_connection_string" prompt="connfwsMetadata_connection_string?" promptNeeded="false" type="id_String" value="jdbc:postgresql://10.0.1.64:5432/fwsMetadata"/>
-  <contextParameter xmi:id="_yNfccogGEeahk9HZ7UR3IQ" comment="" name="connfwsMetadata_java_library" prompt="connfwsMetadata_java_library?" promptNeeded="false" type="id_String" value="postgresql-9.4-1201.jdbc41.jar"/>
-  <contextParameter xmi:id="_yNfcc4gGEeahk9HZ7UR3IQ" comment="" name="connfwsMetadata_driver_class" prompt="connfwsMetadata_driver_class?" promptNeeded="false" type="id_String" value="org.postgresql.Driver"/>
-  <contextParameter xmi:id="_yNfcdIgGEeahk9HZ7UR3IQ" comment="" name="connfwsMetadata_username" prompt="connfwsMetadata_username?" promptNeeded="false" type="id_String" value="faktum"/>
-  <contextParameter xmi:id="_yNfcdYgGEeahk9HZ7UR3IQ" comment="" name="connfwsMetadata_password" prompt="connfwsMetadata_password?" promptNeeded="false" type="id_Password" value="2f7IMOpnQqlThoeKSyG85w=="/>
-  <contextParameter xmi:id="_yNfcdogGEeahk9HZ7UR3IQ" comment="" name="connfwsMetadata_mapping_file" prompt="connfwsMetadata_mapping_file?" promptNeeded="false" type="id_String" value="postgres_id"/>
-</talendfile:ContextType>
