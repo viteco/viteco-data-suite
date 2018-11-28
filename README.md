@@ -5,7 +5,7 @@ This repository is intended for sharing tips and tricks, scripts and more, that 
 
 The user guide of Viteco Data Suite 2.0 can be found here: https://wiki.viteco.dk/display/VWS20
 
-##VITECO_FWS_TALEND
+## VITECO_FWS_TALEND
 Utilities published by Viteco for Talend. Use import to get them into Talend.
 The utilities are to be used in Talend Data Integration. TO use them import them into your Talend project pointing to VITECO_FWS_TALEND as the root directory.
 
